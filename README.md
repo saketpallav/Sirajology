@@ -1,2 +1,1 @@
-# Test
-Testing git Repository
+This repository contains Implementation of Learnings from Siraj Raval videos.
